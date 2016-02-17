@@ -13,7 +13,7 @@ body {
 }
 
 #wrapper > section {
-    background: url(http://localhost:55543/Exam-02-09-2014/Problem-2/Images/background-large.jpg);
+    background: url(/Images/background-large.jpg);
     background-size: 100%;
     background-size: cover;
     height: 420px;
